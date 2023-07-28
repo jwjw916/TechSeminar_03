@@ -1,0 +1,1248 @@
+2023-07-27T14:42:31,986 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:31,986 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:31,986 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:31,987 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:31,988 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:31,989 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:31,989 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:31,990 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:31,990 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:31,991 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:31,991 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:31,991 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:31,991 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:31,991 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:31,991 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:31,992 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:31,992 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:31,992 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:31,994 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:31,995 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:31,995 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:31,996 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:31,997 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:31,997 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:32,021 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:32,022 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:32,023 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:32,024 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:32,024 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:32,025 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:32,045 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:32,049 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:32,050 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:32,053 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:32,055 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:32,055 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:32,070 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:32,071 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:32,072 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:32,073 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:32,074 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:32,074 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:32,085 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:32,086 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:32,086 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:32,087 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:32,087 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:32,087 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,564 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,565 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,566 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,567 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,569 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,569 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,578 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,579 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,580 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,580 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,587 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,589 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,592 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,593 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,594 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,595 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,595 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,596 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,657 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,658 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,659 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,659 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,660 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,660 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,663 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,664 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,667 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,667 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,669 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,670 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,686 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,688 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,690 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,691 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,691 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,692 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,693 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,693 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,694 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,694 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,695 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,696 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:33,802 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:33,803 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:33,804 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:33,804 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:33,804 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:33,804 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:34,886 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:34,887 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:34,887 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:34,887 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:34,888 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:34,888 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:34,950 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:34,951 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:34,951 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:34,951 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:34,952 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:34,953 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:34,972 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:34,973 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:34,973 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:34,974 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:34,979 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:34,980 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:34,996 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:34,997 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:34,998 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:34,998 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:34,998 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:34,998 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:35,015 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:35,016 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:35,016 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:35,017 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:35,018 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:35,019 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:35,049 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:35,049 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:35,050 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:35,050 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:35,052 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:35,052 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:35,074 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:35,074 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:35,075 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:35,075 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:35,076 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:35,076 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:35,132 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:35,132 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:35,133 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:35,133 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:35,134 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:35,134 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,466 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,467 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,468 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,468 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,468 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,468 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,493 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,494 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,494 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,495 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,495 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,496 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,539 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,542 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,542 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,543 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,543 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,543 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,559 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,560 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,560 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,561 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,561 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,561 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,591 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,594 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,595 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,595 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,595 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,596 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,608 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,615 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,616 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,616 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,616 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,617 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,709 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,709 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,711 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,711 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,712 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,712 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:37,771 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:37,772 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:37,772 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:37,773 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:37,773 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:37,773 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,769 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,771 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,772 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,773 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,773 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,773 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,776 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,777 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,777 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,778 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,779 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,779 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,845 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,846 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,846 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,846 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,847 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,847 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,870 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,871 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,871 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,872 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,872 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,873 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,906 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,906 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,908 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,908 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,909 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,909 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,942 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,943 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,944 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,944 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,944 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,945 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:40,994 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:40,995 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:40,995 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:40,996 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:40,996 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:40,996 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:41,026 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:41,027 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:41,027 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:41,028 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:41,028 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:41,028 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,014 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,015 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,015 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,016 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,016 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,016 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,021 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,022 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,023 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,023 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,024 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,024 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,118 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,119 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,119 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,120 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,120 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,120 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,133 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,134 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,134 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,134 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,135 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,135 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,157 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,158 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,159 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,159 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,159 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,160 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,201 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,202 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,203 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,203 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,204 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,204 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,251 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,252 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,252 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,252 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,252 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,253 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:46,268 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:46,269 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:46,269 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:46,269 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:46,270 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:46,270 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,242 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,242 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,243 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,243 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,243 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,243 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,256 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,257 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,257 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,257 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,258 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,258 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,428 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,429 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,429 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,430 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,430 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,430 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,474 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,474 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,474 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,475 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,475 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,475 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,475 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,475 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,476 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,476 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,476 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,476 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,486 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,487 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,488 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,488 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,488 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,489 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,570 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,571 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,571 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,571 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,572 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,572 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:42:54,588 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:42:54,590 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:42:54,590 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:42:54,591 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:42:54,591 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:42:54,592 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,455 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,456 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,456 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,457 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,457 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,457 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,532 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,533 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,534 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,534 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,534 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,535 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,697 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,697 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,698 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,698 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,698 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,698 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,751 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,753 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,753 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,754 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,754 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,754 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,757 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,757 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,757 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,758 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,758 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,758 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,775 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,776 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,777 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,777 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,778 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,781 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,842 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,842 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,843 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,843 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,843 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,843 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:07,862 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:07,862 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:07,863 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:07,863 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:07,863 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:07,864 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:28,645 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:28,645 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:28,646 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:28,647 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:28,647 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:28,647 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:28,717 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:28,717 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:28,718 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:28,718 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:28,719 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:28,719 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:28,925 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:28,925 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:28,926 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:28,926 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:28,926 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:28,927 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:29,003 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:29,004 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:29,004 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:29,004 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:29,005 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:29,005 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:29,011 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:29,013 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:29,014 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:29,014 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:29,014 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:29,014 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:29,038 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:29,039 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:29,040 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:29,040 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:29,040 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:29,040 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:29,129 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:29,130 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:29,131 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:29,131 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:29,132 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:29,132 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:43:29,142 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:43:29,142 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:43:29,143 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:43:29,143 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:43:29,143 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:43:29,143 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:02,831 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:02,831 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:02,831 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:02,844 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:02,845 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:02,845 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:02,907 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:02,908 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:02,908 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:02,909 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:02,909 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:02,909 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:03,138 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:03,139 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:03,140 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:03,140 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:03,140 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:03,141 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:03,254 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:03,254 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:03,256 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:03,256 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:03,256 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:03,257 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:03,262 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:03,263 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:03,263 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:03,264 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:03,264 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:03,264 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:03,282 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:03,284 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:03,291 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:03,292 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:03,293 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:03,294 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:03,350 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:03,351 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:03,351 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:03,351 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:03,352 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:03,352 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:03,354 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:03,356 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:03,356 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:03,357 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:03,357 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:03,357 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,019 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,019 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,019 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,019 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,019 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,019 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,090 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,090 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,091 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,091 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,092 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,092 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,364 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,364 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,365 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,365 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,365 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,365 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,512 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,513 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,514 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,514 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,514 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,514 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,514 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,515 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,515 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,515 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,516 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,516 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,517 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,517 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,518 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,519 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,520 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,520 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,581 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,582 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,582 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,582 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,583 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,583 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:44:58,587 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:44:58,589 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:44:58,589 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:44:58,589 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:44:58,590 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:44:58,590 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,223 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,223 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,223 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,223 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,227 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,227 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,298 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,298 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,299 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,299 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,299 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,300 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,541 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,541 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,541 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,541 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,541 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,541 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,742 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,742 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,746 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,747 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,747 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,747 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,773 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,773 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,773 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,774 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,774 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,774 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,775 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,775 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,776 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,776 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,776 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,776 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,810 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,810 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,811 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,811 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,811 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,811 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:46:27,833 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:46:27,834 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:46:27,834 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:46:27,834 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:46:27,835 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:46:27,835 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:51,415 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:51,415 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:51,415 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:51,415 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:51,420 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:51,420 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:51,493 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:51,494 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:51,494 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:51,494 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:51,494 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:51,495 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:51,715 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:51,715 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:51,715 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:51,716 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:51,716 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:51,716 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:51,970 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:51,970 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:51,970 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:51,970 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:51,971 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:51,971 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:52,006 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:52,006 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:52,006 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:52,007 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:52,007 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:52,007 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:52,007 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:52,008 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:52,008 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:52,008 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:52,009 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:52,009 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:52,042 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:52,042 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:52,043 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:52,043 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:52,044 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:52,044 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T14:48:52,062 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T14:48:52,062 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T14:48:52,063 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T14:48:52,063 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T14:48:52,064 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T14:48:52,065 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,611 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,614 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,615 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,616 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,616 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,616 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,622 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,622 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,623 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,624 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,624 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,624 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,625 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,625 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,626 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,626 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,626 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,626 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,633 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,634 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,635 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,636 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,638 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,638 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,641 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,642 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,643 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,643 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,645 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,646 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,661 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,662 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,664 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,664 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,665 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,665 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,676 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,678 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,680 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,684 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,685 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,685 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:51,692 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:51,694 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:51,695 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:51,695 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:51,696 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:51,696 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:52,954 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:52,955 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:52,956 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:52,956 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:52,957 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:52,958 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:52,999 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,000 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,000 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,001 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,001 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,002 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:53,002 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,003 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,004 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,004 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,004 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,005 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:53,016 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,018 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,019 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,019 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,020 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,020 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:53,040 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,041 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,042 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,042 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,043 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,043 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:53,052 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,053 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,054 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,055 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,056 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,056 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:53,068 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,069 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,070 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,071 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,072 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,072 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:53,102 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:53,103 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:53,104 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:53,104 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:53,104 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:53,105 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,410 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,411 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,412 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,413 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,414 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,414 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,529 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,530 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,531 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,532 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,532 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,533 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,542 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,543 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,543 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,544 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,544 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,544 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,555 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,555 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,556 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,557 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,557 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,557 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,571 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,573 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,573 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,573 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,574 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,574 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,590 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,591 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,591 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,591 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,592 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,592 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,677 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,678 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,679 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,679 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,680 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,680 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:54,738 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:54,739 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:54,739 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:54,740 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:54,740 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:54,740 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:56,751 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:56,751 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:56,752 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:56,753 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:56,753 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:56,753 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:56,903 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:56,903 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:56,904 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:56,904 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:56,905 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:56,905 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:56,930 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:56,930 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:56,931 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:56,932 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:56,932 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:56,933 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:56,944 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:56,944 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:56,945 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:56,946 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:56,946 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:56,946 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:56,982 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:56,983 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:56,984 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:56,984 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:56,984 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:56,985 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:56,999 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:57,000 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:57,000 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:57,000 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:57,001 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:57,003 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:57,029 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:57,030 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:57,030 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:57,031 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:57,031 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:57,031 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:57,056 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:57,057 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:57,060 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:57,066 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:57,071 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:57,071 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:17:59,978 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:17:59,979 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:17:59,979 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:17:59,980 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:17:59,980 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:17:59,981 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,177 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,178 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,178 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,179 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,179 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,179 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,239 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,240 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,240 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,240 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,241 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,241 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,245 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,245 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,246 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,246 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,247 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,247 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,265 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,265 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,266 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,267 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,268 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,268 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,294 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,295 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,295 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,295 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,296 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,296 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,321 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,325 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,325 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,326 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,326 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,326 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:00,360 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:00,360 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:00,362 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:00,362 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:00,364 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:00,364 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,147 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,147 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,148 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,148 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,148 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,148 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,430 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,431 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,432 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,433 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,433 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,433 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,505 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,506 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,507 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,507 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,507 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,507 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,535 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,536 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,537 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,539 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,539 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,539 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,560 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,562 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,562 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,562 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,564 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,564 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,589 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,589 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,590 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,591 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,591 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,591 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,591 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,591 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,592 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,592 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,592 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,592 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:05,636 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:05,637 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:05,637 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:05,638 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:05,638 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:05,638 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,348 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,349 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,350 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,350 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,351 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,351 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,705 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,706 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,706 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,706 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,707 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,707 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,791 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,792 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,792 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,793 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,793 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,793 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,825 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,825 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,825 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,826 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,826 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,826 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,838 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,838 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,839 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,839 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,840 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,840 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,873 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,873 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,874 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,874 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,874 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,874 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,875 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,875 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,881 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,887 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,888 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,888 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:13,944 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:13,944 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:13,946 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:13,947 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:13,947 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:13,947 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:26,517 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:26,517 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:26,518 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:26,518 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:26,518 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:26,518 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:26,896 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:26,897 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:26,897 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:26,897 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:26,897 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:26,898 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:27,009 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:27,010 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:27,010 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:27,011 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:27,011 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:27,011 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:27,048 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:27,049 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:27,049 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:27,050 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:27,050 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:27,050 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:27,070 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:27,071 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:27,071 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:27,071 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:27,071 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:27,072 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:27,137 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:27,138 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:27,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:27,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:27,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:27,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:27,147 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:27,149 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:27,149 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:27,151 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:27,156 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:27,161 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:27,179 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:27,179 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:27,180 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:27,180 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:27,181 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:27,181 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:47,683 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:47,684 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:47,684 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:47,685 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:47,685 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:47,685 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,070 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,071 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,071 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,072 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,072 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,072 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,234 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,235 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,235 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,235 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,236 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,237 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,269 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,270 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,270 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,271 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,271 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,272 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,290 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,291 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,292 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,292 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,292 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,293 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,390 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,391 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,391 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,391 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,392 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,392 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,394 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,394 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,395 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,395 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,395 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,396 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:18:48,407 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:18:48,408 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:18:48,408 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:18:48,409 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:18:48,409 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:18:48,410 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:21,848 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:21,848 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:21,848 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:21,859 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:21,859 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:21,859 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,255 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,256 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,256 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,256 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,257 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,257 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,439 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,441 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,442 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,442 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,442 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,442 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,482 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,482 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,483 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,483 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,484 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,484 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,510 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,511 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,511 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,512 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,512 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,512 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,609 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,609 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,609 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,610 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,613 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,616 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,625 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,626 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,627 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,627 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,627 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,627 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:19:22,651 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:19:22,651 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:19:22,651 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:19:22,652 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:19:22,652 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:19:22,653 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,066 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,067 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,067 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,067 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,067 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,068 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,443 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,443 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,444 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,444 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,444 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,444 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,748 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,748 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,749 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,750 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,750 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,750 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,799 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,800 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,801 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,801 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,801 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,801 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,810 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,810 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,811 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,811 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,812 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,813 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,887 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,887 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,888 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,888 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,888 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,888 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,889 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,889 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,889 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,889 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,890 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,890 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:20:17,919 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:20:17,920 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:20:17,920 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:20:17,920 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:20:17,920 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:20:17,920 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:46,235 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:46,235 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:46,235 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:46,235 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:46,249 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:46,249 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:46,611 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:46,611 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:46,611 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:46,611 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:46,611 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:46,611 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:46,993 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:46,993 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:46,994 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:46,995 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:46,996 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:46,996 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:47,041 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:47,042 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:47,043 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:47,043 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:47,043 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:47,043 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:47,056 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:47,057 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:47,057 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:47,058 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:47,058 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:47,058 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:47,134 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:47,134 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:47,135 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:47,135 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:47,135 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:47,135 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:47,138 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:47,138 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:47,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:47,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:47,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:47,139 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:21:47,165 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:21:47,166 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:21:47,166 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:21:47,166 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:21:47,167 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:21:47,167 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:10,437 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:10,437 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:10,437 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:10,437 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:10,437 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:10,437 [WARN ] W-9007-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:10,786 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:10,786 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:10,786 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:10,786 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:10,786 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:10,786 [WARN ] W-9003-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:11,222 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:11,222 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:11,223 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:11,223 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:11,223 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:11,223 [WARN ] W-9005-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:11,250 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:11,251 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:11,251 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:11,252 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:11,252 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:11,252 [WARN ] W-9000-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:11,288 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:11,289 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:11,289 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:11,289 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:11,290 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:11,290 [WARN ] W-9001-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:11,353 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:11,353 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:11,354 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:11,354 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:11,354 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:11,354 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:11,354 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:11,354 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:11,355 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:11,355 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:11,355 [WARN ] W-9006-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:11,355 [WARN ] W-9004-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
+2023-07-27T15:24:11,373 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - Traceback (most recent call last):
+2023-07-27T15:24:11,373 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\Lib\site-packages\ts\model_service_worker.py", line 15, in <module>
+2023-07-27T15:24:11,373 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     from ts.metrics.metric_cache_yaml_impl import MetricsCacheYamlImpl
+2023-07-27T15:24:11,373 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -   File "C:\ITstudy\TechSeminar_03\pytorch\lib\site-packages\ts\metrics\metric_cache_yaml_impl.py", line 5, in <module>
+2023-07-27T15:24:11,373 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG -     import yaml
+2023-07-27T15:24:11,373 [WARN ] W-9002-convnet_1.0\-stderr MODEL_LOG - ModuleNotFoundError: No module named 'yaml'
